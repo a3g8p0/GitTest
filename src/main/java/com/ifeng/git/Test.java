@@ -7,7 +7,6 @@ public class Test {
 		System.out.println("test another!");
 		System.out.println("test idea");
 		System.out.println("test pull");
-
 	}
 
 }
